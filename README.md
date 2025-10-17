@@ -39,8 +39,4 @@ Helps students and users from rural areas quickly find cafés and nearby resourc
 - Enhance interface visuals and animations
 - Collaborate with local cafés
 
-## How to Run
-1. Clone the repository: `git clone <repo-link>`
-2. Open `index.html` in your browser
-3. Ensure internet connection for map and location services
-4. Explore features like “Locate Me,” filters, and map view
+ 
