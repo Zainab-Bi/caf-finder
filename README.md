@@ -1,6 +1,9 @@
 
 # caf-finder
 
+## **Live Demo**
+[view cafe finder](https://cafefinder.mgx.world/)
+
 ## Project Description
 Nearby Café Finder is a mobile-friendly web app that helps users quickly locate nearby cafés. It shows café names, addresses, ratings, distance, and opening hours, with an interactive map and a “Get Directions” feature.
 
